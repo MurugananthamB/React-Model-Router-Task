@@ -6,7 +6,7 @@ This ReactJS application fetches product data from the **Fake Store API** and al
 
 ## Demo
 
-Check out the live demo [here](your-demo-link.com). <!-- Replace with your actual demo link -->
+Check out the live demo [here](https://react-router-model.netlify.app/).
 
 ## Features
 
